@@ -3,6 +3,62 @@ html, body {
     padding: 0;
 }
 
+.red-color{
+    color: red !important;
+}
+
+#menu {
+    margin: 0;
+    padding: 0;
+    background-color: #0e2426;
+    text-align: center;
+}
+
+#menu ul {
+    margin: 0;
+    padding: 8px 0;
+    background-color: #0e2426;
+    text-align: center;
+    height: auto;
+}
+
+#logo-icon {
+    margin:0;
+    margin-top: -4px;
+    margin-right: -4px;
+    padding: 0;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#menu ul li {
+    margin: 0;
+    height: 24px;
+    line-height: 24px;
+    display: inline-block;
+    padding: 0 18px;
+    letter-spacing: 0.20rem;
+}
+
+#menu ul a {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+    font-family: rkt;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    height: 24px;
+    line-height: 24px;
+}
+
+#menu ul a:hover {
+    text-decoration: underline;
+}
+
 #header {
     margin: 0;
     padding: 32px 0;

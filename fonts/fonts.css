@@ -4,3 +4,17 @@
   font-weight: 400;
   src: url('Limelight-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
 }
+
+@font-face {
+  font-family: 'rkt';
+  src: url("rkt_bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'rkt';
+  src: url("rkt_regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
