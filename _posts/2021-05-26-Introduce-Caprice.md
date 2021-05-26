@@ -18,3 +18,10 @@ like that brand, so it's the library name.
 <p>
 - I am writting this post in my room after finishing my guitar practice routine.
 </p>
+
+```python
+import os
+
+def introduce_caprice():
+    print("Hello, Caprice!")
+```
