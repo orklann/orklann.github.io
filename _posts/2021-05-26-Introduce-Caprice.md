@@ -16,5 +16,5 @@ This libray is called Caprice. Yes, it's the same name as the fashion brand. I
 like that brand, so it's the library name.
 
 <p>
-- I was writting this post in my room after finishing my guitar practice routine.
+- I am writting this post in my room after finishing my guitar practice routine.
 </p>
