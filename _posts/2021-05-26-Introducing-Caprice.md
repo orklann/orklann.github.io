@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduce Caprice - An Open Source PDF Generation Library for Python
+title: Introducing Caprice - An Open Source PDF Generation Library for Python
 ---
 
 {{ page.title }}
@@ -22,6 +22,6 @@ like that brand, so it's the library name.
 ```python
 import os
 
-def introduce_caprice():
+def introducing_caprice():
     print("Hello, Caprice!")
 ```
