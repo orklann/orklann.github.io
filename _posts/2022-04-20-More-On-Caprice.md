@@ -10,7 +10,7 @@ title: More On Caprice
 
 Tonight, before going to my guitar practice routine, I feel it's good to write 
 down some notes about Caprice. I love PDF, it's an elegant document format, and 
-I like to learn more about PDF standards. While I am learning PDF, I also am 
+I like to learn more about PDF standards. While I am learning PDF, I am also
 improving Caprice.
 
 After implementing some foundation and writing relevant unit tests, it's time for
