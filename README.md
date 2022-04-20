@@ -13,7 +13,7 @@ again.
 
 ## To Create New Post
 
-Just copy & paste any post in `_posts`.
+Just duplicate any post in `_posts`.
 
 ## To Run Jekyll Locally
 
