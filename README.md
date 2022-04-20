@@ -10,6 +10,22 @@ customizable any way I please. It should take care of creating a feed for me.
 And most of all, my site should be stored on GitHub so that I never lose data
 again.
 
+
+## To Create New Post
+
+Just copy & paste any post in `_posts`.
+
+## To Run Jekyll Locally
+
+```shell
+gem install jekyll
+cd `to_root_folder`
+bundle install
+bundle exec jekyll serve
+```
+
+Open `http://localhost:4000`
+
 ## License
 
 The following directories and their contents are Copyright Tom Preston-Werner.
