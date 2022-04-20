@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More About Caprice
+title: More On Caprice
 ---
 
 {{ page.title }}
