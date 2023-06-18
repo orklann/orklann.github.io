@@ -14,7 +14,7 @@ have electric power to work.
 
 But before I invent those pure natural Turing Machine, I realised I can
 understand what computation really is. Computation is just to change something
-based on some inputs and some predifined rules (like addition, substration or
+based on some inputs and some predefined rules (like addition, substration or
 other rules not within our universe), and an fantasy idea came out of my mind.
     
 Our universe is a combinations of computational things and uncomputational
