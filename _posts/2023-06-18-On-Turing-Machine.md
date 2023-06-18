@@ -13,7 +13,9 @@ language, I was thinking making some small Turing Machine which don't need to
 have electric power to work.
 
 But before I invent those pure natural Turing Machine, I realised I can
-understand what computation really is, and an fantasy idea came out of my mind.
+understand what computation really is (Computation is just to change something
+based on some inputs and some predifined rules (like addition, substration or
+other rules not within our universe)), and an fantasy idea came out of my mind.
     
 Our universe is a combinations of computational things and uncomputational
 things. All physical things are computational, and our souls are
