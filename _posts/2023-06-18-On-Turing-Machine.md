@@ -21,7 +21,7 @@ Our universe is a combinations of computational things and uncomputational
 things. All physical things are computational, and our souls are
 uncomputational.
 
-That means all status of physical world are preditable in itself because it's
+That means all status of physical world are predictable in itself because it's
 computational, but because our souls are uncomputational, and can affect the
 physical world, so at last the physical world are unpreditable.
 
