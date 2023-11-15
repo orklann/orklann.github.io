@@ -15,9 +15,37 @@ html, body {
   height: 100%;
 }
 
+@font-face {
+  font-family: 'rkt';
+  src: url("../fonts/rkt_bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'rkt';
+  src: url("../fonts/rkt_bold_italic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'rkt';
+  src: url("../fonts/rkt_regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'rkt';
+  src: url("../fonts/rkt_italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
 body {
   background-color: white;
-  font: 13.34px Roboto, arial, clean, sans-serif;
+  font: 17px rkt, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
