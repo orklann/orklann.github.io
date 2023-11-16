@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading ARM Architectire Manual
+title: Reading ARM Architecture Manual
 ---
 
 {{ page.title }}
